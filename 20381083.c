@@ -10,7 +10,7 @@ int main(void)
         while(n--)
         {
             scanf("%d%d",&s,&j);
-            if(j>=s)
+            if(j>s)
             {
             if((j-s)>5)
             k++;
