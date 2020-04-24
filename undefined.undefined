@@ -1,0 +1,16 @@
+//program name
+//Life, the Universe, and Everything  
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int h;
+	while(1){
+	    cin>>h;
+	    if(h==42)
+	    break;
+	    else
+	    cout<<h<<endl;}
+	return 0;
+}
